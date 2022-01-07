@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Uhouhzam
-- 👀 I’m interested in hip-hop danse, fitness
-- 🌱 I’m currently learning machine Learning , deep learning and data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in hip-hop danse, fitness.
+- 🌱I am currently a graduate student at ENSEA engineering school specialized in Computer Science and System. I also study a double master degree in Data Science and Machine Learning at CY Cergy Paris University
+- 💞I am currently looking for an internship in Data Scientist or Machine Learning for 6 months starting in April 
+- 📫 How to reach me mazhouhu97@gmail.com
 
 <!---
 Uhouhzam/Uhouhzam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
