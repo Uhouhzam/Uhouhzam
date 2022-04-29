@@ -5,14 +5,13 @@
 <img align="right" alt="Coding" width ="400" src="https://hakuva.tech/wp-content/uploads/2020/11/sales-manager-openings.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uhouhzam&label=Profile%20views&color=0e75b6&style=flat" alt="uhouhzam" /> </p>
 
-- 👀 I’m interested in hip-hop danse, fitness.
-
+- 🔭 I’m currently working as a research engineer in artificial intelligence at the engineering unit of Hi!Paris attached to the Polytechnic Institute of Paris, under contract to the Telecom Paris school.
 
 - 🌱I am currently a graduate student at ENSEA engineering school specialized in Computer Science and System. I also study a double master degree in Data Science and Machine Learning at CY Cergy Paris University
 
+- 👀 I’m interested in hip-hop danse, fitness.
 
 - 💞I am currently looking for an job in Data Scientist or Machine Learning beganning in November 2022
-
 
 - 📫 How to reach me **mazhouhu97@gmail.com**
 
