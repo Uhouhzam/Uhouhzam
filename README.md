@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Mazhou HU</h1>
-<h3 align="center">A passionate Research Engineer in artificial intelligence</h3>
+<h3 align="center">A passionate Research Engineer in artificial intelligence <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h3>
 
 <img align="right" alt="Coding" width ="400" src="https://hakuva.tech/wp-content/uploads/2020/11/sales-manager-openings.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uhouhzam&label=Profile%20views&color=0e75b6&style=flat" alt="uhouhzam" /> </p>
 
-- 🔭 I’m currently working as a research engineer in artificial intelligence at the engineering unit of Hi!Paris attached to the Polytechnic Institute of Paris, under contract to the Telecom Paris school.
+- 🔭 I’m currently working as a research engineer in artificial intelligence at the engineering unit of <a href="https://www.hi-paris.fr/"> Hi!Paris </a> attached to the Polytechnic Institute of Paris, under contract to the Telecom Paris school.
 
-- 🌱I am currently a graduate student at ENSEA engineering school specialized in Computer Science and System. I also study a double master degree in Data Science and Machine Learning at CY Cergy Paris University
+- 🌱I am currently a graduate student at <a href="https://www.ensea.fr/fr"> ENSEA engineering school </a> specialized in Computer Science and System. I also study a double master degree in <a href="https://depinfo.u-cergy.fr/master">Data Science and Machine Learning</a> at <a href="https://www.cyu.fr/"> CY Cergy Paris University</a>.
 
 - 👀 I’m interested in hip-hop danse, fitness.
 
