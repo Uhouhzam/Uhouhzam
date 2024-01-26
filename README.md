@@ -11,7 +11,7 @@
 
 - 👀 I’m interested in hip-hop danse, fitness.
 
-- 💞I am currently looking for an job in Data Scientist or Machine Learning beginning in Octobre 2022
+- 💞I am currently looking for an job as software engineer.
 
 - 📫 How to reach me **mazhouhu97@gmail.com**
 
